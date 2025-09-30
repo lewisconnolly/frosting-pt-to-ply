@@ -1,0 +1,5 @@
+# Pytorth checkpoints
+*.pt
+
+# pycache
+__pycache__
