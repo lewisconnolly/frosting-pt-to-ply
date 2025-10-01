@@ -63,6 +63,6 @@ create_ply_from_pt('model.pt', 'output_test.ply', use_binary_format=False,
 - `faces_lim`: Optional limit on number of faces to export
 - `gaussians_lim`: Optional limit on number of Gaussian splats to export
 
-## Testing
+## 🔨 Testing
 
 The `happly_test` directory contains a Visual Studio solution for testing the generated PLY files using the [happly](https://github.com/nmwsharp/happly) C++ library. This ensures the PLY files are correctly formatted and can be read by standard PLY parsers.
