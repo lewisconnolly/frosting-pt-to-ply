@@ -1,4 +1,4 @@
-# Create ply file from PyTorch checkpoint
+# Create ply file from Frosting PyTorch checkpoint
 
 ## ℹ️ Overview
 
